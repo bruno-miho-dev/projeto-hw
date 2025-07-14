@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para o **Desafio de Admissão — H&W Development*
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 > Construir:
 >
@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para o **Desafio de Admissão — H&W Development*
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 projeto-hw/
@@ -31,7 +31,7 @@ projeto-hw/
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ✅ **HTML5**
 ✅ **CSS3 (com Bootstrap 5)**
@@ -40,7 +40,7 @@ projeto-hw/
 
 ---
 
-## 📄 Páginas
+## Páginas
 
 ### Página de Vendas (`index.html`)
 
@@ -67,7 +67,7 @@ projeto-hw/
 
 ---
 
-## 📦 Funcionalidades Extras
+## Funcionalidades Extras
 
 ✨ Modal estilizado com cores agradáveis e UI consistente
 ✨ Cartões de produto e bônus com sombra e espaçamento
@@ -75,7 +75,7 @@ projeto-hw/
 
 ---
 
-## 🚀 Como Testar
+## Como Testar
 
 1️⃣ Abrir `index.html` em um navegador moderno
 2️⃣ Assistir ao vídeo ou avançar para após os 20:14 para ver o layout completo
@@ -85,14 +85,14 @@ projeto-hw/
 
 ---
 
-## 🔗 Observações
+## Observações
 
 ⚠ Não utiliza frameworks, APIs externas, PHP ou banco de dados.
 ⚠ Todo o processamento é feito no front-end, utilizando `localStorage` para persistir os dados entre as páginas.
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## Desenvolvido por
 
 Bruno Miho
 
