@@ -27,7 +27,7 @@ projeto-hw/
 ├── index.html # Página de Vendas
 ├── obrigado.html # Página de Agradecimento
 ├── README.md
-´´´
+```
 
 ---
 
@@ -97,4 +97,7 @@ projeto-hw/
 Bruno Miho
 
 ---
+
+```
+
 ```
